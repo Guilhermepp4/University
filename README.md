@@ -1,6 +1,6 @@
 # University 
 
-## My college projects and solved exercises
+## My completed university projects and solutions to exercises
 
 ## 1st Year
 ### 1st Semester:
