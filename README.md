@@ -15,7 +15,7 @@
 ##### Algoritmos e Complexidade - [Exercícios]
 
 ### 2nd Semester:
-#### Laboratórios de Algoritmia II - [Exercícios](https://github.com/Guilhermepp4/LA-II) - [Torneios]
+#### Laboratórios de Algoritmia II - [Exercícios]([https://github.com/Guilhermepp4/LA-II)](https://github.com/Guilhermepp4/LA-II/tree/main/Treinos)) - [Torneios]
 #### Programação Orientada aos Objetos - [Exercícios] - [Projeto]
 #### Sistemas Operativos - [Exercícios] - [Projeto]
 
