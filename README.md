@@ -8,7 +8,7 @@
 
 ### 2nd Semester:
 #### Programação Imperativa - [Exercícios]
-#### Laboratórios de Algoritmia I - [Projeto]
+#### Laboratórios de Algoritmia I - [Exercícios](https://github.com/Guilhermepp4/LA-1/tree/main/Exercicios) - [Projeto]
 
 ## 2nd Year
 ### 1st Semester:
