@@ -11,7 +11,8 @@
 #### Programação Imperativa (Imperative Programming) - (C)
 - [Exercícios]
 #### Laboratórios de Algoritmia I - (C)
-- [Exercícios](https://github.com/Guilhermepp4/LA-1/tree/main/Exercicios) - [Projeto](https://github.com/Guilhermepp4/LA-1/tree/main/Projeto)
+- [Exercícios](https://github.com/Guilhermepp4/LA-1/tree/main/Exercicios)
+- [Projeto](https://github.com/Guilhermepp4/LA-1/tree/main/Projeto)
 
 ## 2nd Year
 ### 1st Semester:
