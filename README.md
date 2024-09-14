@@ -20,7 +20,7 @@
 - [Exercícios]
 
 ### 2nd Semester:
-#### Laboratórios de Algoritmia II
+#### Laboratórios de Algoritmia II - (C)
 - [Exercícios](https://github.com/Guilhermepp4/LA-II/tree/main/Treinos)
 - [Torneios](https://github.com/Guilhermepp4/LA-II/tree/main/Torneios)
 #### Programação Orientada aos Objetos (Object-oriented programming) - (Java)
