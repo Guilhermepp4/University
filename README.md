@@ -28,7 +28,7 @@
 - [Projeto](https://github.com/Guilhermepp4/POO/tree/main/Projeto)
 
 #### Sistemas Operativos - (C)
-- [Exercícios](https://github.com/Guilhermepp4/SO/tree/main)
+- [Exercícios](https://github.com/Guilhermepp4/SO/tree/main/Práticas)
 - [Projeto]
 
 ## 3rd Year
