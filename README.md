@@ -30,3 +30,9 @@
 #### Sistemas Operativos - (C)
 - [Exercícios](https://github.com/Guilhermepp4/SO/tree/main)
 - [Projeto]
+
+## 3rd Year
+### 1st Semester:
+#### Lógica Computacional - (Python)
+- [Exercícios]
+- [Projetos]
