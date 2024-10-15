@@ -34,5 +34,4 @@
 ## 3rd Year
 ### 1st Semester:
 #### Lógica Computacional - (Python)
-- [Exercícios](https://github.com/Guilhermepp4/LC/tree/main/Fichas)
 - [Projetos](https://github.com/Guilhermepp4/LC/tree/main/Projetos/TP1)
