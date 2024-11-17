@@ -34,6 +34,6 @@
 ## 3rd Year
 ### 1st Semester:
 #### Lógica Computacional - (Python)
-- [Projetos](https://github.com/Guilhermepp4/LC/tree/main/Projetos/TP1)
+- [Projetos](https://github.com/Guilhermepp4/LC/tree/main)
 #### Processamento de Linguagens e Compiladores (LP) - (Python)
 - [Projetos](https://github.com/Guilhermepp4/PLC/tree/main)
