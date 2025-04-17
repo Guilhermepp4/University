@@ -29,7 +29,7 @@
 
 #### Sistemas Operativos - (C)
 - [Exercícios](https://github.com/Guilhermepp4/SO/tree/main/Práticas)
-- [Projeto]
+- [Projeto](https://github.com/Guilhermepp4/SO/tree/main/Projeto)
 
 ## 3rd Year
 ### 1st Semester:
