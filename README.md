@@ -39,3 +39,15 @@
 - [Projetos](https://github.com/Guilhermepp4/PLC/tree/main)
 #### Base de Dados (DB) - (MySQL)
 - [Projeto](https://github.com/Guilhermepp4/BD)
+
+### 2nd semester
+#### Computação Gráfica (CG) - (C++) 
+- [Exercícios]
+- [Projeto]
+#### Programação Concorrente (CP) - (Java) 
+- [Exercícios]
+- [Projeto]
+#### Interação e Concorrência(Quantum Computing) - Qiskit 
+- [Projeto]
+#### Projeto (Python) 
+- [Projeto]
