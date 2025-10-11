@@ -45,8 +45,8 @@
 - [Exercícios]
 - [Projeto]
 #### Programação Concorrente (CP) - (Java) 
-- [Exercícios]
-- [Projeto]
+- [Exercícios](https://github.com/Guilhermepp4/PC/tree/main/Exercícios)
+- [Projeto](https://github.com/Guilhermepp4/PC/tree/main/Projeto)
 #### Interação e Concorrência(Quantum Computing) - Qiskit 
 - [Projeto]
 #### Projeto (Python) 
