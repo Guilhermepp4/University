@@ -53,15 +53,15 @@
 ## Master's in Software Engineering
 ## 1st Year
 ### 1st Semester:
-#### Aplicações e Serviços de Computação em Nuvem (Cloud Computing) 
+#### Aplicações e Serviços de Computação em Nuvem (CC) - (Python) 
 - [Projeto]
-#### Dados e Aprendizagem Automática (Artificial Inteligence)
+#### Dados e Aprendizagem Automática (AI) - (Python)
 - [Projeto]
-#### Requisitos e Arquiteturas de Software (Software Architetures)
+#### Requisitos e Arquiteturas de Software (SA)
 - [Projetos]
-#### Conceção e Implementação de Armazéns de Dados
+#### Conceção e Implementação de Armazéns de Dados (MySQL)
 - [Projeto]
-#### Engenharia Gramatical
+#### Engenharia Gramatical (Python)
 - [Exercícios]
 - [Projeto]
 
