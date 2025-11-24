@@ -1,7 +1,7 @@
-# University 
+# Guilherme Pinho
 
 ## My completed university projects and solutions to exercises
-
+## Bachelors in Computer Science
 ## 1st Year
 ### 1st Semester:
 #### Programação Funcional (Functional Programming) - (Haskell)
@@ -47,7 +47,22 @@
 #### Programação Concorrente (CP) - (Java) 
 - [Exercícios](https://github.com/Guilhermepp4/PC/tree/main/Exercícios)
 - [Projeto](https://github.com/Guilhermepp4/PC/tree/main/Projeto)
-#### Interação e Concorrência(Quantum Computing) - Qiskit 
-- [Projeto]
 #### Projeto (Python) 
 - [Projeto]
+
+## Master's in Software Engineering
+## 1st Year
+### 1st Semester:
+#### Aplicações e Serviços de Computação em Nuvem (Cloud Computing) 
+- [Projeto]
+#### Dados e Aprendizagem Automática (Artificial Inteligence)
+- [Projeto]
+#### Requisitos e Arquiteturas de Software (Software Architetures)
+- [Projetos]
+#### Conceção e Implementação de Armazéns de Dados
+- [Projeto]
+#### Engenharia Gramatical
+- [Exercícios]
+- [Projeto]
+
+### 2nd Semester:
