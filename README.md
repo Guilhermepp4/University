@@ -63,7 +63,7 @@
 - [Projeto](https://github.com/Guilhermepp4/CIAD)
 #### Engenharia Gramatical (Python)
 - [Exercícios]
-- [Projeto]
+- [Projetos](https://github.com/Guilhermepp4/EG/tree/main/Projetos)
 
 ### 2nd Semester:
 #### Representação e Processamento de Conhecimento na Web
