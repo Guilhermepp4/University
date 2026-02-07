@@ -58,7 +58,7 @@
 #### Dados e Aprendizagem Automática (AI) - (Python)
 - [Projeto]
 #### Requisitos e Arquiteturas de Software (SA)
-- [Projetos]
+- [Projetos](https://github.com/Guilhermepp4/RAS)
 #### Conceção e Implementação de Armazéns de Dados (MySQL)
 - [Projeto](https://github.com/Guilhermepp4/CIAD)
 #### Engenharia Gramatical (Python)
