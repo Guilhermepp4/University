@@ -66,3 +66,26 @@
 - [Projeto]
 
 ### 2nd Semester:
+#### Representação e Processamento de Conhecimento na Web
+- [TPCs](https://github.com/Guilhermepp4/RPCW2026)
+- [Projeto]
+
+#### Scripting para Processamento de Linguagem Natural
+- [TPCs]
+- [Projeto]
+
+#### Projeto em Engenharia de Linguagens
+- [TPCs]
+- [Projeto]
+
+#### Sistemas de Extração, Transformação e Carregamento de Dados
+- [TPCs]
+- [Projeto]
+
+#### Extração de Conhecimento em Data Warehouses
+- [TPCs]
+- [Projeto]
+
+#### Projeto em Sistemas de Data Warehousing
+- [TPCs]
+- [Projeto]
