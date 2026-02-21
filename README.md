@@ -15,10 +15,6 @@
 - [Projeto](https://github.com/Guilhermepp4/LA-1/tree/main/Projeto)
 
 ## 2nd Year
-### 1st Semester:
-#### Algoritmos e Complexidade
-- [Exercícios]
-
 ### 2nd Semester:
 #### Laboratórios de Algoritmia II - (C)
 - [Exercícios](https://github.com/Guilhermepp4/LA-II/tree/main/Treinos)
