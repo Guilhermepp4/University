@@ -38,8 +38,7 @@
 
 ### 2nd semester
 #### Computação Gráfica (CG) - (C++) 
-- [Exercícios]
-- [Projeto]
+- [Projeto](https://github.com/Guilhermepp4/CG)
 #### Programação Concorrente (CP) - (Java) 
 - [Exercícios](https://github.com/Guilhermepp4/PC/tree/main/Exercícios)
 - [Projeto](https://github.com/Guilhermepp4/PC/tree/main/Projeto)
