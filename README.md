@@ -57,7 +57,7 @@
 #### Conceção e Implementação de Armazéns de Dados (MySQL)
 - [Projeto](https://github.com/Guilhermepp4/CIAD)
 #### Engenharia Gramatical (Python)
-- [Exercícios]
+- [Exercícios](https://github.com/Guilhermepp4/EG/tree/main/Exercícios)
 - [Projetos](https://github.com/Guilhermepp4/EG/tree/main/Projetos)
 
 ### 2nd Semester:
