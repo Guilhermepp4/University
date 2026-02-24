@@ -51,7 +51,7 @@
 #### Aplicações e Serviços de Computação em Nuvem (CC) - (Python) 
 - [Projeto](https://github.com/Guilhermepp4/ASCN/tree/main)
 #### Dados e Aprendizagem Automática (AI) - (Python)
-- [Projeto]
+- [Projeto](https://github.com/Guilhermepp4/DAA)
 #### Requisitos e Arquiteturas de Software (SA)
 - [Projetos](https://github.com/Guilhermepp4/RAS)
 #### Conceção e Implementação de Armazéns de Dados (MySQL)
