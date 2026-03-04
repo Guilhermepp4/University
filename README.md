@@ -66,7 +66,7 @@
 - [Projeto]
 
 #### Scripting para Processamento de Linguagem Natural
-- [TPCs]
+- [TPCs](https://github.com/Guilhermepp4/SPLN2026)
 - [Projeto]
 
 #### Projeto em Engenharia de Linguagens
