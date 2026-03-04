@@ -70,8 +70,7 @@
 - [Projeto]
 
 #### Projeto em Engenharia de Linguagens
-- [TPCs]
-- [Projeto]
+- [Projeto](https://github.com/Guilhermepp4/Proj_EL)
 
 #### Sistemas de Extração, Transformação e Carregamento de Dados
 - [TPCs]
@@ -82,5 +81,4 @@
 - [Projeto]
 
 #### Projeto em Sistemas de Data Warehousing
-- [TPCs]
 - [Projeto]
