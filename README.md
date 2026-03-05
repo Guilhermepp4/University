@@ -80,4 +80,4 @@
 
 | Master |
 | --- |
-| [Projects](https://github.com/Guilhermepp4/Master/blob/main/README.md) |
+| [Projects](https://github.com/Guilhermepp4/Master/tree/main) |
